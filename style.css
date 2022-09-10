@@ -1,0 +1,133 @@
+
+*{
+ position: absolute;
+ right: 0;
+ margin: 8px;  
+}
+
+.b1{
+    background-color: black;
+    height: 400px;
+    width: 400px;  
+}
+ .b2{ 
+  background-color: white;
+  width: 384px;
+  height: 384px;
+}
+.b3{  
+    background-color:black;
+    width: 368px;
+    height: 368px;
+  }
+  .b4{  
+    background-color:white;
+    width: 352px;
+    height: 352px;
+  }
+  .b5{  
+    background-color:black;
+    width: 336px;
+    height: 336px;
+  }
+  .b6{  
+    background-color:white;
+    width: 320px;
+    height: 320px;
+  }
+  .b7{  
+    background-color:black;
+    width: 304px;
+    height: 304px;
+  }
+  .b8{  
+    background-color:white;
+    width: 288px;
+    height: 288px;
+  }
+  .b9{  
+    background-color:black;
+    width: 272px;
+    height: 272px;
+  }
+  .b10{  
+    background-color:white;
+    width: 256px;
+    height: 256px;
+  }
+  .b11{  
+    background-color:black;
+    width: 240px;
+    height: 240px;
+  }
+  .b12{  
+    background-color:white;
+    width: 224px;
+    height: 224px;
+  }
+  .b13{  
+    background-color:black;
+    width: 208px;
+    height: 208px;
+  }
+  .b14{  
+    background-color:white;
+    width: 192px;
+    height: 192px;
+  }
+  .b15{  
+    background-color:black;
+    width: 176px;
+    height: 176px;
+  }
+  .b16{  
+    background-color:white;
+    width: 160px;
+    height: 160px;
+  }
+  .b17{  
+    background-color:black;
+    width: 144px;
+    height: 144px;
+  }
+  .b18{  
+    background-color:white;
+    width: 128px;
+    height: 128px;
+  }
+  .b19{  
+    background-color:black;
+    width: 112px;
+    height: 112px;
+  }
+  .b20{
+    background-color:white;
+    width: 96px;
+    height: 96px;
+  }
+  .b21{  
+    background-color:black;
+    width: 80px;
+    height: 80px;
+  }
+  .b22{
+    background-color:white;
+    width: 64px;
+    height: 64px;
+  }
+  .b23{  
+    background-color:black;
+    width: 48px;
+    height: 48px;
+  }
+  .b24{
+    background-color:white;
+    width: 32px;
+    height: 32px;
+  }
+  .b25{  
+    background-color:black;
+    width: 16px;
+    height: 16px;
+  }
+ 
